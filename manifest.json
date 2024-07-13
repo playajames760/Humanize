@@ -1,0 +1,15 @@
+{
+    "display_name": "Humanize",
+    "loading_order": 1,
+    "requires": [
+        "chromadb",
+        "Smart Context"
+    ],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "playajames",
+    "version": "0.1.0",
+    "homePage": "https://github.com/playajames760/Humanize",
+    "auto_update": true
+}
